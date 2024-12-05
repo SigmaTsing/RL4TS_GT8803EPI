@@ -1,0 +1,3 @@
+## Introduction
+
+This the course project codes for Georgia Tech [8803 EPI](https://faculty.cc.gatech.edu/~badityap/classes/cse8803-epi-Fall24/policies.html#proposal), conducted by Shangqing Xu and Atharva B. .The project is around applying reinforecement learning (RL) algorithm to time-series forecasting tasks, especially tasks with complex reward (loss) function that is not directly associated back to model gradients. Project report can be found at [this link](https://drive.google.com/file/d/1K0CqVsOwrdvVNcA7-EQwzUSpuGdh0EZs/view?usp=share_link) and poster at [this link](https://drive.google.com/file/d/1BCrY_3Iaa6vSpuqQ1Q44xlgw3yg1ZvEQ/view?usp=share_link).
